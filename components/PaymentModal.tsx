@@ -62,7 +62,7 @@ export const PaymentModal: React.FC<PaymentModalProps> = ({ amount, onConfirm, o
         <div className="flex justify-center mb-6 relative group">
            <div className="p-3 bg-white rounded-2xl shadow-[0_10px_25px_rgba(0,0,0,0.1)] border border-gray-100 transform group-hover:scale-105 transition-transform duration-300">
               <img 
-                src="https://picsum.photos/250/250" 
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHwO_-Mp4mmE5tIQgvrs8ZzsUiKwMWROUa8XAMFdKpYGzqxAXR9ciCYRZ9LBt-i1ukxzhTVQw_mcKbCm5jzFe6vySjmowjplpTMJBwV5HVfETSH6WwqlWHY2BEn_rMJn4jXXRX5ylMRwDGPssCFolj5akwy1Ny-Y3_JHFQZK3Jdf4HzaFwuBRXqwcDVhI/s407/qris.jpg" 
                 alt="Kode QRIS" 
                 className="w-56 h-56 rounded-xl object-cover"
               />
