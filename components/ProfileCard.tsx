@@ -4,7 +4,7 @@ export const ProfileCard: React.FC = () => {
   const socials = [
     {
       name: 'YouTube',
-      url: 'https://youtube.com',
+      url: 'https://youtube.com/@sidhanie06',
       color: 'hover:text-red-600 hover:shadow-red-500/30',
       icon: (
         <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
@@ -14,7 +14,7 @@ export const ProfileCard: React.FC = () => {
     },
     {
       name: 'TikTok',
-      url: 'https://tiktok.com',
+      url: 'https://tiktok.com/@sidhanie',
       color: 'hover:text-pink-500 hover:shadow-pink-500/30',
       icon: (
         <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
@@ -24,7 +24,7 @@ export const ProfileCard: React.FC = () => {
     },
     {
       name: 'Instagram',
-      url: 'https://instagram.com',
+      url: 'https://instagram.com/@sidhanie06',
       color: 'hover:text-fuchsia-600 hover:shadow-fuchsia-500/30',
       icon: (
         <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
@@ -34,7 +34,7 @@ export const ProfileCard: React.FC = () => {
     },
     {
       name: 'Facebook',
-      url: 'https://facebook.com',
+      url: 'https://facebook.com/@sidhanie06',
       color: 'hover:text-blue-600 hover:shadow-blue-500/30',
       icon: (
         <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
@@ -75,7 +75,7 @@ export const ProfileCard: React.FC = () => {
             {/* Profile Image */}
             <div className="relative z-10 p-3">
                  <img 
-                  src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=256&h=256&auto=format&fit=crop" 
+                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho6h8LvlpSFhTC8PhCDh7Od69H5zIuFs7QIzt2ajwP6yv32JZedNt18wBWUkb73k9vkMhwWE-91YuS29Thqt1OUceA9Z6a56galtZs-xYLZBnrrDH3hTy5Li9lApd69J8OPJx0BEK1pl4ag2mw8KYMnxPBZipSVkn0edwD4lBzM6XIANWikebRqCUQfWc/s3000/sidhanie.jpg" 
                   alt="Foto Profil Sidhanie" 
                   className="w-32 h-32 object-cover rounded-full shadow-2xl"
                 />
